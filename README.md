@@ -21,7 +21,7 @@ BoomBikes is US bike-sharing provider who has recently suffered considerable dip
 - Month of Jan has lowest demand of bikes and September being the highest.
 
 ## Contact
-Created by @bhardwajgaurav007 and @vijayktiwary - feel free to contact me!
+Created by @bhardwajgaurav007 - feel free to contact me!
 
 ## License
 This project is open source and free to use/edit by anyone
